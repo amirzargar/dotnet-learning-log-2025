@@ -28,7 +28,7 @@ class Program
         float height =GetValidFloat("Enter Valid Height :") ;
 
         //check ur enters valid city name or characters only
-        string City = GetValidString("Enter Ur City :");
+        string city = GetValidString("Enter Ur City :");
         
        
 
